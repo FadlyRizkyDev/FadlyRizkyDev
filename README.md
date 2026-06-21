@@ -6,7 +6,7 @@
 
 ### 👤 Tentang Saya
 - 🔭 Saat ini saya sedang bekerja/belajar di **Universitas Islam Negeri Sumatera Utara**
-- 🌱 Sedang mendalami Web Dekstop & Aplikasi Mobile
+- 🌱 Sedang mendalami **Web Dekstop & Aplikasi Mobile**
 - 💬 Tanya saya tentang **Jago Jungler Di Mobile Legend**
 - ⚡ Fun fact: **Menajadi Pria Solo**
 

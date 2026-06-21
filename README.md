@@ -2,7 +2,7 @@
 ### 🚀  Full-Stack Developer / UI/UX Enthusiast 
 
 <p align="center">
-  <img src="img/header.png" alt="Fadly Rizky" />
+  <img src="header.png" alt="Fadly Rizky" />
 </p>
 
 -------

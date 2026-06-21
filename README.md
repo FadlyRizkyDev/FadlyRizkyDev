@@ -1,7 +1,9 @@
 # 👋 Halo, Saya M. Fadly Rziky Pratama!
 ### 🚀  Full-Stack Developer / UI/UX Enthusiast 
 
-![Fadly Rizky](img/header.png)
+<p align="center">
+  <img src="img/header.png" alt="Fadly Rizky" />
+</p>
 
 ---
 

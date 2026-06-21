@@ -3,7 +3,7 @@
 
 ![FadlyRizkyDev](img/header.png)
 
--------
+---
 
 ### 👤 Tentang Saya
 - 🔭 Saat ini saya sedang bekerja/belajar di **Universitas Islam Negeri Sumatera Utara**

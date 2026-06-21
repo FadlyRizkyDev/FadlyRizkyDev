@@ -1,6 +1,7 @@
 # 👋 Halo, Saya M. Fadly Rizky Pratama!
 ### 🚀  Full-Stack Developer / UI/UX Enthusiast 
 
+![FadlyRizkyDev](img/"C:\Users\R4NRC\OneDrive\Pictures\header gthub.png")
 
 ---
 

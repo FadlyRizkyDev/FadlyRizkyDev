@@ -1,9 +1,6 @@
-# 👋 Halo, Saya M. Fadly Rziky Pratama!
+# 👋 Halo, Saya M. Fadly Rizky Pratama!
 ### 🚀  Full-Stack Developer / UI/UX Enthusiast 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 

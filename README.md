@@ -1,13 +1,13 @@
-# 👋 Halo, Saya M. Fadly Rizky Pratama!
+# 👋 Halo, Saya M. Fadly Rziky Pratama!
 ### 🚀  Full-Stack Developer / UI/UX Enthusiast 
 
-![FadlyRizkyDev](img/"C:\Users\R4NRC\OneDrive\Pictures\header gthub.png")
+![FadlyRizkyDev](img/header.png)
 
----
+-------
 
 ### 👤 Tentang Saya
 - 🔭 Saat ini saya sedang bekerja/belajar di **Universitas Islam Negeri Sumatera Utara**
-- 🌱 Sedang mendalami **Web Dekstop & Aplikasi Mobile**
+- 🌱 Sedang mendalami Web Dekstop & Aplikasi Mobile
 - 💬 Tanya saya tentang **Jago Jungler Di Mobile Legend**
 - ⚡ Fun fact: **Menajadi Pria Solo**
 

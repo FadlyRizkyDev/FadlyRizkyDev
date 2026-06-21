@@ -5,7 +5,7 @@
   <img src="img/header.png" alt="Fadly Rizky" />
 </p>
 
----
+-------
 
 ### 👤 Tentang Saya
 - 🔭 Saat ini saya sedang bekerja/belajar di **Universitas Islam Negeri Sumatera Utara**
